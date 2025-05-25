@@ -1,0 +1,12 @@
+C:\Users\sanya\Desktop\Nitrox-master\NitroxModel\bin\Release\net9.0\NitroxModel.deps.json
+C:\Users\sanya\Desktop\Nitrox-master\NitroxModel\bin\Release\net9.0\NitroxModel.dll
+C:\Users\sanya\Desktop\Nitrox-master\NitroxModel\bin\Release\net9.0\protobuf-net.dll
+C:\Users\sanya\Desktop\Nitrox-master\NitroxModel\obj\Release\net9.0\NitroxModel.csproj.AssemblyReference.cache
+C:\Users\sanya\Desktop\Nitrox-master\NitroxModel\obj\Release\net9.0\NitroxModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanya\Desktop\Nitrox-master\NitroxModel\obj\Release\net9.0\NitroxModel.AssemblyInfoInputs.cache
+C:\Users\sanya\Desktop\Nitrox-master\NitroxModel\obj\Release\net9.0\NitroxModel.AssemblyInfo.cs
+C:\Users\sanya\Desktop\Nitrox-master\NitroxModel\obj\Release\net9.0\NitroxModel.csproj.CoreCompileInputs.cache
+C:\Users\sanya\Desktop\Nitrox-master\NitroxModel\obj\Release\net9.0\NitroxMo.7D1C8A68.Up2Date
+C:\Users\sanya\Desktop\Nitrox-master\NitroxModel\obj\Release\net9.0\NitroxModel.dll
+C:\Users\sanya\Desktop\Nitrox-master\NitroxModel\obj\Release\net9.0\refint\NitroxModel.dll
+C:\Users\sanya\Desktop\Nitrox-master\NitroxModel\obj\Release\net9.0\ref\NitroxModel.dll

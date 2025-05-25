@@ -1,0 +1,14 @@
+C:\Users\sanya\Desktop\Nitrox-master\NitroxModel-Subnautica\bin\Release\net9.0\NitroxModel-Subnautica.deps.json
+C:\Users\sanya\Desktop\Nitrox-master\NitroxModel-Subnautica\bin\Release\net9.0\NitroxModel-Subnautica.dll
+C:\Users\sanya\Desktop\Nitrox-master\NitroxModel-Subnautica\bin\Release\net9.0\NitroxModel.dll
+C:\Users\sanya\Desktop\Nitrox-master\NitroxModel-Subnautica\bin\Release\net9.0\protobuf-net.dll
+C:\Users\sanya\Desktop\Nitrox-master\NitroxModel-Subnautica\obj\Release\net9.0\NitroxModel-Subnautica.csproj.AssemblyReference.cache
+C:\Users\sanya\Desktop\Nitrox-master\NitroxModel-Subnautica\obj\Release\net9.0\NitroxModel-Subnautica.IgnoresAccessChecksTo.cs
+C:\Users\sanya\Desktop\Nitrox-master\NitroxModel-Subnautica\obj\Release\net9.0\NitroxModel-Subnautica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanya\Desktop\Nitrox-master\NitroxModel-Subnautica\obj\Release\net9.0\NitroxModel-Subnautica.AssemblyInfoInputs.cache
+C:\Users\sanya\Desktop\Nitrox-master\NitroxModel-Subnautica\obj\Release\net9.0\NitroxModel-Subnautica.AssemblyInfo.cs
+C:\Users\sanya\Desktop\Nitrox-master\NitroxModel-Subnautica\obj\Release\net9.0\NitroxModel-Subnautica.csproj.CoreCompileInputs.cache
+C:\Users\sanya\Desktop\Nitrox-master\NitroxModel-Subnautica\obj\Release\net9.0\NitroxMo.6DD69B9A.Up2Date
+C:\Users\sanya\Desktop\Nitrox-master\NitroxModel-Subnautica\obj\Release\net9.0\NitroxModel-Subnautica.dll
+C:\Users\sanya\Desktop\Nitrox-master\NitroxModel-Subnautica\obj\Release\net9.0\refint\NitroxModel-Subnautica.dll
+C:\Users\sanya\Desktop\Nitrox-master\NitroxModel-Subnautica\obj\Release\net9.0\ref\NitroxModel-Subnautica.dll

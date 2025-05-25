@@ -1,0 +1,15 @@
+C:\Users\sanya\Desktop\Nitrox-master\NitroxClient\obj\Debug\net9.0\NitroxClient.csproj.AssemblyReference.cache
+C:\Users\sanya\Desktop\Nitrox-master\NitroxClient\obj\Debug\net9.0\NitroxClient.IgnoresAccessChecksTo.cs
+C:\Users\sanya\Desktop\Nitrox-master\NitroxClient\obj\Debug\net9.0\NitroxClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanya\Desktop\Nitrox-master\NitroxClient\obj\Debug\net9.0\NitroxClient.AssemblyInfoInputs.cache
+C:\Users\sanya\Desktop\Nitrox-master\NitroxClient\obj\Debug\net9.0\NitroxClient.AssemblyInfo.cs
+C:\Users\sanya\Desktop\Nitrox-master\NitroxClient\obj\Debug\net9.0\NitroxClient.csproj.CoreCompileInputs.cache
+C:\Users\sanya\Desktop\Nitrox-master\NitroxClient\bin\Debug\net9.0\NitroxClient.deps.json
+C:\Users\sanya\Desktop\Nitrox-master\NitroxClient\bin\Debug\net9.0\NitroxClient.dll
+C:\Users\sanya\Desktop\Nitrox-master\NitroxClient\bin\Debug\net9.0\NitroxModel-Subnautica.dll
+C:\Users\sanya\Desktop\Nitrox-master\NitroxClient\bin\Debug\net9.0\NitroxModel.dll
+C:\Users\sanya\Desktop\Nitrox-master\NitroxClient\bin\Debug\net9.0\protobuf-net.dll
+C:\Users\sanya\Desktop\Nitrox-master\NitroxClient\obj\Debug\net9.0\NitroxCl.668BF76F.Up2Date
+C:\Users\sanya\Desktop\Nitrox-master\NitroxClient\obj\Debug\net9.0\NitroxClient.dll
+C:\Users\sanya\Desktop\Nitrox-master\NitroxClient\obj\Debug\net9.0\refint\NitroxClient.dll
+C:\Users\sanya\Desktop\Nitrox-master\NitroxClient\obj\Debug\net9.0\ref\NitroxClient.dll

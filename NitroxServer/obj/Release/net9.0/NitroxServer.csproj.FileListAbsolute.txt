@@ -1,0 +1,14 @@
+C:\Users\sanya\Desktop\Nitrox-master\NitroxServer\bin\Release\net9.0\NitroxServer.dll.config
+C:\Users\sanya\Desktop\Nitrox-master\NitroxServer\bin\Release\net9.0\NitroxServer.deps.json
+C:\Users\sanya\Desktop\Nitrox-master\NitroxServer\bin\Release\net9.0\NitroxServer.dll
+C:\Users\sanya\Desktop\Nitrox-master\NitroxServer\bin\Release\net9.0\NitroxModel.dll
+C:\Users\sanya\Desktop\Nitrox-master\NitroxServer\bin\Release\net9.0\protobuf-net.dll
+C:\Users\sanya\Desktop\Nitrox-master\NitroxServer\obj\Release\net9.0\NitroxServer.csproj.AssemblyReference.cache
+C:\Users\sanya\Desktop\Nitrox-master\NitroxServer\obj\Release\net9.0\NitroxServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanya\Desktop\Nitrox-master\NitroxServer\obj\Release\net9.0\NitroxServer.AssemblyInfoInputs.cache
+C:\Users\sanya\Desktop\Nitrox-master\NitroxServer\obj\Release\net9.0\NitroxServer.AssemblyInfo.cs
+C:\Users\sanya\Desktop\Nitrox-master\NitroxServer\obj\Release\net9.0\NitroxServer.csproj.CoreCompileInputs.cache
+C:\Users\sanya\Desktop\Nitrox-master\NitroxServer\obj\Release\net9.0\NitroxSe.CFA816F7.Up2Date
+C:\Users\sanya\Desktop\Nitrox-master\NitroxServer\obj\Release\net9.0\NitroxServer.dll
+C:\Users\sanya\Desktop\Nitrox-master\NitroxServer\obj\Release\net9.0\refint\NitroxServer.dll
+C:\Users\sanya\Desktop\Nitrox-master\NitroxServer\obj\Release\net9.0\ref\NitroxServer.dll

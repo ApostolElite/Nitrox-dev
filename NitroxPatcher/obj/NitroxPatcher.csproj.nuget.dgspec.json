@@ -1,0 +1,824 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxPatcher\\NitroxPatcher.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxClient\\NitroxClient.csproj": {
+      "version": "1.8.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxClient\\NitroxClient.csproj",
+        "projectName": "NitroxClient",
+        "projectPath": "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxClient\\NitroxClient.csproj",
+        "packagesPath": "C:\\Users\\sanya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sanya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472",
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxModel-Subnautica\\NitroxModel-Subnautica.csproj": {
+                "projectPath": "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxModel-Subnautica\\NitroxModel-Subnautica.csproj"
+              },
+              "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxModel\\NitroxModel.csproj": {
+                "projectPath": "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxModel\\NitroxModel.csproj"
+              }
+            }
+          },
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {
+              "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxModel-Subnautica\\NitroxModel-Subnautica.csproj": {
+                "projectPath": "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxModel-Subnautica\\NitroxModel-Subnautica.csproj"
+              },
+              "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxModel\\NitroxModel.csproj": {
+                "projectPath": "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxModel\\NitroxModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "BepInEx.AssemblyPublicizer.MSBuild": {
+              "include": "Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[0.4.2, )"
+            },
+            "DiscordGameSDKWrapper": {
+              "target": "Package",
+              "version": "[3.2.1.1, )"
+            },
+            "IndexRange": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "IsExternalInit": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "JetBrains.Annotations": {
+              "target": "Package",
+              "version": "[2024.3.0, )",
+              "aliases": "JB"
+            },
+            "Nitrox.Analyzers": {
+              "include": "Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[*, )"
+            },
+            "Nitrox.Discovery.MSBuild": {
+              "include": "Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[0.1.0, )"
+            },
+            "System.Memory": {
+              "target": "Package",
+              "version": "[4.6.3, )"
+            },
+            "System.ValueTuple": {
+              "target": "Package",
+              "version": "[4.6.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        },
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "BepInEx.AssemblyPublicizer.MSBuild": {
+              "include": "Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[0.4.2, )"
+            },
+            "DiscordGameSDKWrapper": {
+              "target": "Package",
+              "version": "[3.2.1.1, )"
+            },
+            "IndexRange": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "IsExternalInit": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "JetBrains.Annotations": {
+              "target": "Package",
+              "version": "[2024.3.0, )",
+              "aliases": "JB"
+            },
+            "Nitrox.Analyzers": {
+              "include": "Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[*, )"
+            },
+            "Nitrox.Discovery.MSBuild": {
+              "include": "Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[0.1.0, )"
+            },
+            "System.Memory": {
+              "target": "Package",
+              "version": "[4.6.3, )"
+            },
+            "System.ValueTuple": {
+              "target": "Package",
+              "version": "[4.6.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxModel-Subnautica\\NitroxModel-Subnautica.csproj": {
+      "version": "1.8.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxModel-Subnautica\\NitroxModel-Subnautica.csproj",
+        "projectName": "NitroxModel-Subnautica",
+        "projectPath": "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxModel-Subnautica\\NitroxModel-Subnautica.csproj",
+        "packagesPath": "C:\\Users\\sanya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxModel-Subnautica\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sanya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472",
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxModel\\NitroxModel.csproj": {
+                "projectPath": "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxModel\\NitroxModel.csproj"
+              }
+            }
+          },
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {
+              "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxModel\\NitroxModel.csproj": {
+                "projectPath": "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxModel\\NitroxModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "BepInEx.AssemblyPublicizer.MSBuild": {
+              "include": "Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[0.4.2, )"
+            },
+            "IndexRange": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "IsExternalInit": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "JetBrains.Annotations": {
+              "target": "Package",
+              "version": "[2024.3.0, )",
+              "aliases": "JB"
+            },
+            "LitJson": {
+              "target": "Package",
+              "version": "[0.19.0, )"
+            },
+            "Nitrox.Analyzers": {
+              "include": "Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[*, )"
+            },
+            "Nitrox.Discovery.MSBuild": {
+              "include": "Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[0.1.0, )"
+            },
+            "System.Memory": {
+              "target": "Package",
+              "version": "[4.6.3, )"
+            },
+            "System.ValueTuple": {
+              "target": "Package",
+              "version": "[4.6.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        },
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "BepInEx.AssemblyPublicizer.MSBuild": {
+              "include": "Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[0.4.2, )"
+            },
+            "IndexRange": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "IsExternalInit": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "JetBrains.Annotations": {
+              "target": "Package",
+              "version": "[2024.3.0, )",
+              "aliases": "JB"
+            },
+            "LitJson": {
+              "target": "Package",
+              "version": "[0.19.0, )"
+            },
+            "Nitrox.Analyzers": {
+              "include": "Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[*, )"
+            },
+            "Nitrox.Discovery.MSBuild": {
+              "include": "Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[0.1.0, )"
+            },
+            "System.Memory": {
+              "target": "Package",
+              "version": "[4.6.3, )"
+            },
+            "System.ValueTuple": {
+              "target": "Package",
+              "version": "[4.6.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxModel\\NitroxModel.csproj": {
+      "version": "1.8.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxModel\\NitroxModel.csproj",
+        "projectName": "NitroxModel",
+        "projectPath": "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxModel\\NitroxModel.csproj",
+        "packagesPath": "C:\\Users\\sanya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sanya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472",
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          },
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[4.9.4, 4.9.4]"
+            },
+            "IndexRange": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "IsExternalInit": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "JetBrains.Annotations": {
+              "target": "Package",
+              "version": "[2024.3.0, )",
+              "aliases": "JB"
+            },
+            "LiteNetLib": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Microsoft.Win32.Registry": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Mono.Nat": {
+              "target": "Package",
+              "version": "[3.0.4, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )",
+              "noWarn": [
+                "NU1903",
+                "NU1904"
+              ]
+            },
+            "Nitrox.Analyzers": {
+              "include": "Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[*, )"
+            },
+            "Nitrox.BinaryPack": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "Serilog.Sinks.Async": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Serilog.Sinks.Map": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "System.Buffers": {
+              "target": "Package",
+              "version": "[4.6.1, )"
+            },
+            "System.IO.FileSystem.AccessControl": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Memory": {
+              "target": "Package",
+              "version": "[4.6.3, )"
+            },
+            "System.Numerics.Vectors": {
+              "target": "Package",
+              "version": "[4.6.1, )"
+            },
+            "System.Runtime.CompilerServices.Unsafe": {
+              "target": "Package",
+              "version": "[6.1.2, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "System.ValueTuple": {
+              "target": "Package",
+              "version": "[4.6.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        },
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[4.9.4, 4.9.4]"
+            },
+            "IndexRange": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "IsExternalInit": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "JetBrains.Annotations": {
+              "target": "Package",
+              "version": "[2024.3.0, )",
+              "aliases": "JB"
+            },
+            "LiteNetLib": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Microsoft.Win32.Registry": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Mono.Nat": {
+              "target": "Package",
+              "version": "[3.0.4, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )",
+              "noWarn": [
+                "NU1903",
+                "NU1904"
+              ]
+            },
+            "Nitrox.Analyzers": {
+              "include": "Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[*, )"
+            },
+            "Nitrox.BinaryPack": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "Serilog.Sinks.Async": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Serilog.Sinks.Map": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "System.Buffers": {
+              "target": "Package",
+              "version": "[4.6.1, )"
+            },
+            "System.ComponentModel": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.IO.Compression": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.IO.FileSystem.AccessControl": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Memory": {
+              "target": "Package",
+              "version": "[4.6.3, )"
+            },
+            "System.Numerics.Vectors": {
+              "target": "Package",
+              "version": "[4.6.1, )"
+            },
+            "System.Runtime.CompilerServices.Unsafe": {
+              "target": "Package",
+              "version": "[6.1.2, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "System.ValueTuple": {
+              "target": "Package",
+              "version": "[4.6.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxPatcher\\NitroxPatcher.csproj": {
+      "version": "1.8.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxPatcher\\NitroxPatcher.csproj",
+        "projectName": "NitroxPatcher",
+        "projectPath": "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxPatcher\\NitroxPatcher.csproj",
+        "packagesPath": "C:\\Users\\sanya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxPatcher\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sanya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472",
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxClient\\NitroxClient.csproj": {
+                "projectPath": "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxClient\\NitroxClient.csproj"
+              },
+              "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxModel-Subnautica\\NitroxModel-Subnautica.csproj": {
+                "projectPath": "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxModel-Subnautica\\NitroxModel-Subnautica.csproj"
+              }
+            }
+          },
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {
+              "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxClient\\NitroxClient.csproj": {
+                "projectPath": "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxClient\\NitroxClient.csproj"
+              },
+              "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxModel-Subnautica\\NitroxModel-Subnautica.csproj": {
+                "projectPath": "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxModel-Subnautica\\NitroxModel-Subnautica.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "BepInEx.AssemblyPublicizer.MSBuild": {
+              "include": "Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[0.4.2, )"
+            },
+            "HarmonyX": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "IndexRange": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "IsExternalInit": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "JetBrains.Annotations": {
+              "target": "Package",
+              "version": "[2024.3.0, )",
+              "aliases": "JB"
+            },
+            "Nitrox.Analyzers": {
+              "include": "Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[*, )"
+            },
+            "Nitrox.Discovery.MSBuild": {
+              "include": "Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[0.1.0, )"
+            },
+            "System.Memory": {
+              "target": "Package",
+              "version": "[4.6.3, )"
+            },
+            "System.ValueTuple": {
+              "target": "Package",
+              "version": "[4.6.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        },
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "BepInEx.AssemblyPublicizer.MSBuild": {
+              "include": "Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[0.4.2, )"
+            },
+            "HarmonyX": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "IndexRange": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "IsExternalInit": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "JetBrains.Annotations": {
+              "target": "Package",
+              "version": "[2024.3.0, )",
+              "aliases": "JB"
+            },
+            "Nitrox.Analyzers": {
+              "include": "Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[*, )"
+            },
+            "Nitrox.Discovery.MSBuild": {
+              "include": "Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[0.1.0, )"
+            },
+            "System.Memory": {
+              "target": "Package",
+              "version": "[4.6.3, )"
+            },
+            "System.ValueTuple": {
+              "target": "Package",
+              "version": "[4.6.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

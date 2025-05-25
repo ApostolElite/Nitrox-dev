@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sanya\\Desktop\\Nitrox-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEBC7DC-FAE3-4FBC-BDD3-38ED8FC072D9}|NitroxModel\\NitroxModel.csproj|c:\\users\\sanya\\desktop\\nitrox-master\\nitroxmodel\\platforms\\os\\windows\\winfilesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEBC7DC-FAE3-4FBC-BDD3-38ED8FC072D9}|NitroxModel\\NitroxModel.csproj|solutionrelative:nitroxmodel\\platforms\\os\\windows\\winfilesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEBC7DC-FAE3-4FBC-BDD3-38ED8FC072D9}|NitroxModel\\NitroxModel.csproj|c:\\users\\sanya\\desktop\\nitrox-master\\nitroxmodel\\platforms\\os\\shared\\filesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEBC7DC-FAE3-4FBC-BDD3-38ED8FC072D9}|NitroxModel\\NitroxModel.csproj|solutionrelative:nitroxmodel\\platforms\\os\\shared\\filesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30493A43-7EB3-4898-A82F-98A387284EB2}|Nitrox.Launcher\\Nitrox.Launcher.csproj|c:\\users\\sanya\\desktop\\nitrox-master\\nitrox.launcher\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30493A43-7EB3-4898-A82F-98A387284EB2}|Nitrox.Launcher\\Nitrox.Launcher.csproj|solutionrelative:nitrox.launcher\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30493A43-7EB3-4898-A82F-98A387284EB2}|Nitrox.Launcher\\Nitrox.Launcher.csproj|c:\\users\\sanya\\desktop\\nitrox-master\\nitrox.launcher\\nitrox.launcher.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{30493A43-7EB3-4898-A82F-98A387284EB2}|Nitrox.Launcher\\Nitrox.Launcher.csproj|solutionrelative:nitrox.launcher\\nitrox.launcher.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEBC7DC-FAE3-4FBC-BDD3-38ED8FC072D9}|NitroxModel\\NitroxModel.csproj|c:\\users\\sanya\\desktop\\nitrox-master\\nitroxmodel\\helper\\piratedetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBEBC7DC-FAE3-4FBC-BDD3-38ED8FC072D9}|NitroxModel\\NitroxModel.csproj|solutionrelative:nitroxmodel\\helper\\piratedetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30493A43-7EB3-4898-A82F-98A387284EB2}|Nitrox.Launcher\\Nitrox.Launcher.csproj|c:\\users\\sanya\\desktop\\nitrox-master\\nitrox.launcher\\viewmodels\\launchgameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30493A43-7EB3-4898-A82F-98A387284EB2}|Nitrox.Launcher\\Nitrox.Launcher.csproj|solutionrelative:nitrox.launcher\\viewmodels\\launchgameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30493A43-7EB3-4898-A82F-98A387284EB2}|Nitrox.Launcher\\Nitrox.Launcher.csproj|c:\\users\\sanya\\desktop\\nitrox-master\\nitrox.launcher\\viewmodels\\optionsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30493A43-7EB3-4898-A82F-98A387284EB2}|Nitrox.Launcher\\Nitrox.Launcher.csproj|solutionrelative:nitrox.launcher\\viewmodels\\optionsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D774E0-750C-427B-8C38-F8F985114A2E}|NitroxModel-Subnautica\\NitroxModel-Subnautica.csproj|c:\\users\\sanya\\desktop\\nitrox-master\\nitroxmodel-subnautica\\helper\\subnauticaconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D774E0-750C-427B-8C38-F8F985114A2E}|NitroxModel-Subnautica\\NitroxModel-Subnautica.csproj|solutionrelative:nitroxmodel-subnautica\\helper\\subnauticaconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WinFileSystem.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxModel\\Platforms\\OS\\Windows\\WinFileSystem.cs",
+              "RelativeDocumentMoniker": "NitroxModel\\Platforms\\OS\\Windows\\WinFileSystem.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxModel\\Platforms\\OS\\Windows\\WinFileSystem.cs",
+              "RelativeToolTip": "NitroxModel\\Platforms\\OS\\Windows\\WinFileSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T12:07:10.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileSystem.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxModel\\Platforms\\OS\\Shared\\FileSystem.cs",
+              "RelativeDocumentMoniker": "NitroxModel\\Platforms\\OS\\Shared\\FileSystem.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxModel\\Platforms\\OS\\Shared\\FileSystem.cs",
+              "RelativeToolTip": "NitroxModel\\Platforms\\OS\\Shared\\FileSystem.cs",
+              "ViewState": "AgIAAAMBAAAAAAAAAIAwwBYBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T12:03:51.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\Nitrox-master\\Nitrox.Launcher\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Nitrox.Launcher\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\Nitrox-master\\Nitrox.Launcher\\GlobalUsings.cs",
+              "RelativeToolTip": "Nitrox.Launcher\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T12:00:35.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nitrox.Launcher",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\Nitrox-master\\Nitrox.Launcher\\Nitrox.Launcher.csproj",
+              "RelativeDocumentMoniker": "Nitrox.Launcher\\Nitrox.Launcher.csproj",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\Nitrox-master\\Nitrox.Launcher\\Nitrox.Launcher.csproj",
+              "RelativeToolTip": "Nitrox.Launcher\\Nitrox.Launcher.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-25T11:52:49.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PirateDetection.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxModel\\Helper\\PirateDetection.cs",
+              "RelativeDocumentMoniker": "NitroxModel\\Helper\\PirateDetection.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxModel\\Helper\\PirateDetection.cs",
+              "RelativeToolTip": "NitroxModel\\Helper\\PirateDetection.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAADwvzQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:30:18.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OptionsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\Nitrox-master\\Nitrox.Launcher\\ViewModels\\OptionsViewModel.cs",
+              "RelativeDocumentMoniker": "Nitrox.Launcher\\ViewModels\\OptionsViewModel.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\Nitrox-master\\Nitrox.Launcher\\ViewModels\\OptionsViewModel.cs",
+              "RelativeToolTip": "Nitrox.Launcher\\ViewModels\\OptionsViewModel.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:28:00.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LaunchGameViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\Nitrox-master\\Nitrox.Launcher\\ViewModels\\LaunchGameViewModel.cs",
+              "RelativeDocumentMoniker": "Nitrox.Launcher\\ViewModels\\LaunchGameViewModel.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\Nitrox-master\\Nitrox.Launcher\\ViewModels\\LaunchGameViewModel.cs",
+              "RelativeToolTip": "Nitrox.Launcher\\ViewModels\\LaunchGameViewModel.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAuwLQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:21:06.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SubnauticaConstants.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxModel-Subnautica\\Helper\\SubnauticaConstants.cs",
+              "RelativeDocumentMoniker": "NitroxModel-Subnautica\\Helper\\SubnauticaConstants.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\Nitrox-master\\NitroxModel-Subnautica\\Helper\\SubnauticaConstants.cs",
+              "RelativeToolTip": "NitroxModel-Subnautica\\Helper\\SubnauticaConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:21:01.177Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
